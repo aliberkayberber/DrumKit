@@ -5,7 +5,7 @@ Drum Kit website. Using HTML and CSS. JavaScript click and keydown event .
  - Visual Studio code 
 
 ## Live website
-![Project screenshot] (https://github.com/aliberkayberber/DrumKit/blob/main/images/DrumKit.png)
+![Project screenshot](https://github.com/aliberkayberber/DrumKit/blob/main/images/DrumKit.png)
 ## Installing
 
 1. **Clone the repository**
